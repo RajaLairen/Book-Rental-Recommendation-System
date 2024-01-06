@@ -6,7 +6,7 @@ Welcome to BookRecommender System, a powerful recommendation system designed to 
 
 Key Features:
 🔍 User-Based Recommendations:
-Discover books aligned with your taste by analyzing user preferences and suggesting titles that resonate with similar readers.
+Discover books aligned  with your taste by analyzing user preferences and suggesting titles that resonate with similar readers.
 
 📖 Book Similarity Engine:
 Explore a vast collection of books and uncover hidden gems based on their thematic, stylistic, and genre similarities.
